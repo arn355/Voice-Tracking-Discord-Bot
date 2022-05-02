@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-ce10",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000i\u0000s\u0000c\u0000o\u0000r\u0000d\u0000-\u0000B\u0000o\u0000t\u0000-\u0000C\u0000E\u00001\u00000\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arn355/Discord-Bot-CE10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arn355/Discord-Bot-CE10/issues"
+  },
+  "homepage": "https://github.com/arn355/Discord-Bot-CE10#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
